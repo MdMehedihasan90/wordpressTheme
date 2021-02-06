@@ -1,0 +1,64 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6e178399b68c4e814b7b726aeb963908",
+    "packages": [
+        {
+            "name": "codexpert/product",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.org/codexpertio/codexpert-product.git",
+                "reference": "c87ede1ce2c5a6bd9f86c69a2fd2eda54251a70b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://bitbucket.org/codexpertio/codexpert-product/get/c87ede1ce2c5a6bd9f86c69a2fd2eda54251a70b.zip",
+                "reference": "c87ede1ce2c5a6bd9f86c69a2fd2eda54251a70b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "codexpert",
+                    "email": "hello@codexpert.io",
+                    "homepage": "https://codexpert.io",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Product management for codexpert",
+            "homepage": "https://bitbucket.org/codexpertio/codexpert-product",
+            "keywords": [
+                "codexpert",
+                "product"
+            ],
+            "time": "2020-12-14T15:16:46+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "codexpert/product": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}

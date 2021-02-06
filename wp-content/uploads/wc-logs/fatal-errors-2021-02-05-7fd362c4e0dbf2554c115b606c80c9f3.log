@@ -1,0 +1,30 @@
+2021-02-05T11:38:29+00:00 CRITICAL Uncaught Error: Call to undefined function add_theem_support() in C:\xampp\htdocs\codexpert\wp-content\themes\mh\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\codexpert\wp-settings.php(514): include()
+#1 C:\xampp\htdocs\codexpert\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codexpert\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\codexpert\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\codexpert\wp-admin\themes.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\codexpert\wp-content\themes\mh\functions.php on line 3
+
+2021-02-05T11:39:14+00:00 CRITICAL Uncaught Error: Call to undefined function add_theem_support() in C:\xampp\htdocs\codexpert\wp-content\themes\mh\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\codexpert\wp-settings.php(514): include()
+#1 C:\xampp\htdocs\codexpert\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codexpert\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\codexpert\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\codexpert\wp-admin\themes.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\codexpert\wp-content\themes\mh\functions.php on line 3
+
+2021-02-05T11:40:18+00:00 CRITICAL Uncaught Error: Call to undefined function add_theem_support() in C:\xampp\htdocs\codexpert\wp-content\themes\mh\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\codexpert\wp-settings.php(514): include()
+#1 C:\xampp\htdocs\codexpert\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codexpert\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\codexpert\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\codexpert\wp-admin\themes.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\codexpert\wp-content\themes\mh\functions.php on line 3
+
