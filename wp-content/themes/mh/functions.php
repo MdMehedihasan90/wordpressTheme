@@ -27,7 +27,7 @@
         'id'   => 'register_sidebar',
         'description' => 'This is register sidebar'
     ]);
-    //create menus which will select as like as Primary menu, footer menu etc.
+    //create menus display location which will select as like as Primary menu, footer menu etc.
     register_nav_menus([
         'first_menu' => 'First Menu',
         'second_menu' => 'Second Menu'
