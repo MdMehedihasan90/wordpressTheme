@@ -1,3 +1,8 @@
+<!-- ২ টা ফাইল থাকতে হবে index.php, style.css
+Thumbnail এর সাইজ হবে ৬০০/৪৫০
+Theme Details এ যা যা থাকতে হবেঃ Theme name: , Version: , Theme URI: , Author: , Author URI: , Description: , Tags: , . এই গুলো comment out এর ভিতর থাকতে হবে style.css ফাইল এর ভিতরে -->
+
+
 <?php
     // will add appearance-> Menu 
     add_theme_support('menus');
